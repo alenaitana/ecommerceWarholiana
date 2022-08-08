@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+
+img {
+    height: 200px;
+}
+
+.imgTamaño {
+    height: 80%;
+}
+
+.linkCarrito {
+    background-color: aquamarine;
+    text-align: right;
+}
+
+header {
+    background-color: aqua;
+    padding: 10px;
+}
+
+body {
+    background-color: whitesmoke
+}
